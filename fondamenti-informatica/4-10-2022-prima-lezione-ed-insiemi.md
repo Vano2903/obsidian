@@ -59,3 +59,27 @@ Gli insiemi piú noti/importanti:
 
 - Reali $\mathbb{R}$: 
 	$\mathbb{R} = \mathbb{Q} \cup \mathbb{I}$
+
+- Complessi $\mathbb{C}$: 
+	L'insieme dei complessi estende l'insieme $\mathbb{R}$ per permettere operazioni non definite altrimenti
+
+	Si basa sulla combinazione tra 2 numeri reali e la $i$ che rappresenta l'unitá immaginaria: $i = \sqrt{-1}$  
+
+	un numero complesso quidi é $a, b \in \mathbb{R}$ composto come $a + bi$ 
+	dove la parte con $bi$ si dice immaginaria.
+
+- Booleani $\mathbb{B} = \{0,1\}$:
+
+
+Inoltre alcuni insiemi sono **discreti** quindi sono **finiti** e **contengono spazi vuoti** mentre gli **insiemi continui** **<u>non</u>** contengono **spazi vuoti** e sono **infinit** 
+
+| insiemi discreti             | insiemi continui         |
+| ---------------------------- | ------------------------ |
+| naturali $\mathbb{N}$        | razionali $\mathbb{Q}$   |
+| interi $\mathbb{Z}$          | irrazionali $\mathbb{I}$ |
+| booleani $\mathbb{B}$        | reali $\mathbb{R}$       |
+| insiemi finiti $\{1,5,6,9\}$ | complessi $\mathbb{C}$   |
+
+
+
+

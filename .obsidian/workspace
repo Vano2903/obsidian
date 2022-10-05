@@ -1,15 +1,17 @@
 {
   "main": {
-    "id": "56e96075a52a2488",
+    "id": "02f32ca4c8d166d3",
     "type": "split",
     "children": [
       {
-        "id": "a57564fd0c8104df",
+        "id": "c58dd66adbdc9c97",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "_assets/campionamento_suono.webp"
+            "file": "analisi/4-10-2022-insiemi-e-notazioni.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -17,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "20ddc1d6ef6a8990",
+    "id": "beab173e5949bfd6",
     "type": "split",
     "children": [
       {
-        "id": "38534aea5ced928a",
+        "id": "38b069ad3824a74b",
         "type": "tabs",
         "children": [
           {
-            "id": "1ecd946fb8fff42e",
+            "id": "7e0d2544ee4d8655",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -33,7 +35,7 @@
             }
           },
           {
-            "id": "030d5c4cadca4b95",
+            "id": "4919ede2a22ad6a7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -48,7 +50,7 @@
             }
           },
           {
-            "id": "debe994e6edca77a",
+            "id": "8570c3b78a24b810",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -59,23 +61,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
-    "id": "a7b8ac0900b69164",
+    "id": "8e88d15a3076208d",
     "type": "split",
     "children": [
       {
-        "id": "357437a0d3a34ff8",
+        "id": "333d538e9900c007",
         "type": "tabs",
         "children": [
           {
-            "id": "ff4d4a86ad23fb00",
+            "id": "b3660bd81f58e3b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_assets/campionamento_suono.webp",
+                "file": "analisi/4-10-2022-insiemi-e-notazioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,19 +89,19 @@
             }
           },
           {
-            "id": "e7633e33b8e71c74",
+            "id": "0a1d433ef562832f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_assets/campionamento_suono.webp",
+                "file": "analisi/4-10-2022-insiemi-e-notazioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "efa243091c4874f3",
+            "id": "280653b62df03fb0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -110,17 +112,17 @@
             }
           },
           {
-            "id": "0f5dca471a7387c8",
+            "id": "973721eb74f051ec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_assets/campionamento_suono.webp"
+                "file": "analisi/4-10-2022-insiemi-e-notazioni.md"
               }
             }
           },
           {
-            "id": "10a991088ed0165f",
+            "id": "41d47c4d4c56ba32",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -135,11 +137,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a57564fd0c8104df",
+  "active": "c58dd66adbdc9c97",
   "lastOpenFiles": [
     "fondamenti-informatica/4-10-2022-prima-lezione-ed-insiemi.md",
-    "_assets/campionamento_suono.webp",
-    "fondamenti-informatica/argomenti.md",
-    "2022-10-05.md"
+    "Untitled.md",
+    "_assets/Pasted image 20221005162359.png",
+    "analisi/4-10-2022-insiemi-e-notazioni.md",
+    "Untitled 1.md",
+    "fondamenti-informatica/argomenti.md"
   ]
 }
